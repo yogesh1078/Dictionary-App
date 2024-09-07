@@ -7,7 +7,7 @@ echo "HELLO";
     
     $servername = "localhost";
     $username   = "WebDataBase";
-    $password   = "8078669365";
+    $password   = "......";
     $dbname     = "myDB";
 
     try {

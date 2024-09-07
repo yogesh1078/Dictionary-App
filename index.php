@@ -6,7 +6,7 @@ echo "HELLO";
     $word = $_POST['word'];
     
     $servername = "localhost";
-    $username   = "WebDataBase";
+    $username   = "......";
     $password   = "......";
     $dbname     = "myDB";
 
